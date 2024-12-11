@@ -1,4 +1,4 @@
-from lexical_item import FeatureBundle
+from .lexical_item import FeatureBundle
 
 
 class SyntacticalType:

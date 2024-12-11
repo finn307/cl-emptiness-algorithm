@@ -1,6 +1,6 @@
 import itertools
-from lexical_item import FeatureBundle
-from syntactical_type import SyntacticalType
+from features_and_types import FeatureBundle
+from features_and_types import SyntacticalType
 
 
 _MAX_ITERATIONS = 100
